@@ -1,0 +1,24 @@
+AIQX
+SelfService
+
+Initial feasability check: {{useCaseName}}
+
+
+Thank you very much for your request!
+
+Your use case will now be subjected to an initial feasability check 
+by the AIQX-Team to clearify if the desired inspection feature 
+can be implemented by AIXQ in general.
+
+Upon completion you will recieve another email to inform you about 
+feasability and next steps.
+
+
+
+Your AIQX-Team
+info_aiqx@bmw.de
+
+
+Please do not respond to this email.
+This email was generated and sent automatically.
+You may contact the AIQX-Team using the email adress provided above this text.
